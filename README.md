@@ -1,14 +1,19 @@
-# 💫 About Me:
-Youtube @temnastranaceska
+# Hi, I'm Ondra!
 
-
-## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@temnastranaceska) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+🎓 Student | ☕ Learning Java | 🎬 YouTuber
 
 ---
-[![](https://komarev.com/ghpvc/?username=OndraHybl&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💻 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🌐 Socials
+
+[![YouTube](https://img.shields.io/badge/YouTube-Temná_strana_Česka-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@temnastranaceska)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=OndraHybl&color=blue&style=flat-square)
